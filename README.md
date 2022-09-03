@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frdevelopers
+- 👋 Hi, I’m Farhan Ramzan
 - 👀 I’m interested in deep learning.
 - 🌱 I’m currently learning lot of advance web frameworks.
 - 💞️ I’m looking to collaborate on a POS project.
