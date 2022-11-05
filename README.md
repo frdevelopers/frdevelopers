@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farhan Ramzan
 - 👀 I’m interested in deep learning.
 - 🌱 I’m currently learning lot of advance web frameworks.
-- 💞️ I’m looking to collaborate on a POS project.
+- 💞️ I’m looking to collaborate on a HRMS project.
 - 📫 Contact me at farhanramzan@outlook.com
 
 <!---
